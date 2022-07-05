@@ -150,7 +150,7 @@ When we plot accuracy vs. speed on the AP50 (IOU 0.5 metric), we see that YOLOv3
 
 The main objective was “to optimize neural networks detector for parallel computations”, the developer team also introduces various different architectures and architectural selections after attentively analyzing the effects on the performance of numerous detector, features suggested in the previous YOLO models.
 
-![Figure12][link12]
+![Figure13][link13]
 
 ## Bag of Freebies
 
@@ -161,7 +161,7 @@ The main objective of data augmentation methods is to increase the variability o
 
 * **Photometric distortion**: Photometric distortion creates new images by adjusting brightness, hue, contrast, saturation and noise to display more varieties of the same image. In the example below we adjusted the Hue (or color appearance parameter) to modify the image and create new samples to create more variability in our training set.
 
-![Figure13][link13]
+![Figure13.1][link13.1]
 
 * **Geometric distortion**: The so-called geometric distortion methods are all the techniques used to rotate the image, flipping, random scaling or cropping.
 
