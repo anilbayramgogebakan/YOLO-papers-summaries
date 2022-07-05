@@ -1,3 +1,36 @@
+[link1]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig1.png
+[link2]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig2.png
+[link3]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig3.png
+[link3.1]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig3.1.png
+[link3.2]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig3.2.png
+[link3.3]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig3.3.png
+[link4]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig4.png
+[link5]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig5.png
+[link6]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig6.png
+[link7]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig7.png
+[link8]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig8.png
+[link9]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig9.png
+[link10]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig10.png
+[link11]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig11.png
+[link12]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig12.png
+[link13]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig13.png
+[link13.1]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig13.1.png
+[link14]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig14.png
+[link15]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig15.png
+[link16]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig16.png
+[link17]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig17.png
+[link18]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig18.png
+[link19]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig19.png
+[link20]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig20.png
+[link21]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig21.png
+[link22]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig22.png
+[link23]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig23.png
+[link24]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig24.png
+[link25]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig25.png
+[link26]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig26.png
+[link27]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig27.png
+[link28]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig28.png
+
 # You Only Look Once: Unified, Real-Time Object Detection
 
 ## Introduction
@@ -235,3 +268,11 @@ They use the same as YOLO v3.
 ![Figure26][link26]
 
 ![Figure27][link27]
+
+![Figure27][link27]
+
+## Useful links:
+
+* Information and tips for Tiny-YOLO: https://github.com/AlexeyAB/darknet/issues/406
+* YOLOv4 vs YOLOv5 comparison: https://github.com/AlexeyAB/darknet/issues/5920
+* About resizing: https://github.com/pjreddie/darknet/issues/728
