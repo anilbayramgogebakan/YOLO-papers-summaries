@@ -9,7 +9,7 @@
 [link6]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig6.png
 
 # You Only Look Once: Unified, Real-Time Object Detection
-
+[Paper](https://arxiv.org/abs/1506.02640)
 ## Introduction
 
 YOLO checks frames only once on the contrary of former models. For example, RCNN use double shot method: First guess the location of possible bounding boxes, then use classification method to decide. Then eliminate duplicate detections. This method decreases the latency and makes YOLO used as real time. Since the model approach to object detection as a regression problem, there are no need to complex pipelines. Despite of high speed, YOLO(v1) was still behind the state-of-art models in terms of accuracy especially small objects.
@@ -44,6 +44,7 @@ Because each grid cells predict two boxes and can only have one classes, YOLO mo
 ![Fig3][link3]
 
 # YOLO9000: Better, Faster Stronger
+[Paper](https://arxiv.org/abs/1612.08242)
 
 ## Better
 

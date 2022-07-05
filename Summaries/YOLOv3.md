@@ -6,6 +6,7 @@
 [link12]: https://github.com/anilbayramgogebakan/YOLO-papers-summaries/blob/main/src/fig12.png
 
 # YOLOv3: An Incremental Improvement
+[Paper](https://arxiv.org/abs/1804.02767)
 
 *(It’s a little bigger but more accurate)*
 
